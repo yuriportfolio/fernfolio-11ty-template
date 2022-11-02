@@ -9,6 +9,18 @@ summary: |+
 metaDescription: ""
 tags: []
 ---
+
+
+You play as a Little Girl named PIU who travels through a mysterious world. 
+
+With a Huge Gun!
+
+![](/src/assets/img/cover.jpg)
+
+![](/src/assets/img/screen1.jpg)
+
+![](/src/assets/img/screen3.jpg)
+
 **C﻿ONTROL:**
 
 AWD or ARROWS - to move
