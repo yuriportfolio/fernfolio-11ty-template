@@ -13,6 +13,12 @@ summary: >-
 
 
   mouse click - to shoot
+metaDescription: |-
+  Control:
+
+  AWD or ARROWS - to move
+
+  mouse click - to shoot
 tags:
   - unity
 ---
