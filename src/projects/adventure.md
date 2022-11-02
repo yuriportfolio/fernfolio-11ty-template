@@ -2,17 +2,12 @@
 title: Adventure
 emoji: PIU
 date: 2022-11-02T23:22:25.891Z
-summary: >-
+summary: >+
   ​ADVENTURE GAME
 
 
   You are a Little Traveler with a Big Gun. Roam the mysterious and dangerous world
 
-
-  AWD or ARROWS - to move
-
-
-  mouse click - to shoot
 metaDescription: |-
   Control:
 
