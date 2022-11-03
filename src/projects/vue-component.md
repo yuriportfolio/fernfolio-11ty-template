@@ -1,6 +1,6 @@
 ---
 title: Planet Clicker
-emoji: :)
+emoji: "|"
 date: 2019-01-01T00:00:00.000Z
 summary: " clicker game for mobile"
 metaDescription: ""
