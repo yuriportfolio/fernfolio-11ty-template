@@ -1,19 +1,9 @@
 ---
-title: Vue Date Picker
-emoji: 🗓
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
+title: Planet Clicker
+emoji: :)
 date: 2019-01-01T00:00:00.000Z
-summary: This is a Vue component I made
-tags:
-  - javascript
-  - vue
-  - aws
+summary: " clicker game for mobile"
+metaDescription: ""
+tags: []
 ---
-
-### Task
-
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-### Solution
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+<iframe frameborder="0" src="https://itch.io/embed-upload/6576516?color=333333" allowfullscreen="" width="270" height="500"><a href="https://druftpunk.itch.io/clicker">Play Clicker on itch.io</a></iframe>
