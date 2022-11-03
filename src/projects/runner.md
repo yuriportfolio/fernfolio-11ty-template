@@ -1,6 +1,6 @@
 ---
 title: Runner
-emoji: ^^
+emoji: "|"
 date: 2022-11-03T00:21:07.947Z
 summary: Simple Runner prototype
 tags: []
