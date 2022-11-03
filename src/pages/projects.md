@@ -4,9 +4,9 @@ title: GAMES
 subtitle: LET'S PLAY!
 metaDescription: ""
 date: 2021-01-01
-permalink: /projects/index.html
+permalink: /games/index.html
 emoji: 💻
 eleventyNavigation:
-  key: Projects
+  key: Games
   order: 3
 ---
