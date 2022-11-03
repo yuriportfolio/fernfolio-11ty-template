@@ -1,8 +1,8 @@
 ---
 layout: projects.njk
-title: Games
-subtitle: This is the page where all projects will live
-metaDescription: A sample Projects page
+title: GAMES
+subtitle: LET'S PLAY!
+metaDescription: ""
 date: 2021-01-01
 permalink: /projects/index.html
 emoji: 💻
