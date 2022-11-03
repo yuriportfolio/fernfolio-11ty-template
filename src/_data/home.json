@@ -1,6 +1,6 @@
 {
-  "title": "Karpenko",
-  "image": "src/assets/img/fern-in-hand.jpeg",
-  "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "title": "Karpenko Anastasiia",
+  "image": "/src/assets/img/photo_2022-10-04_19-13-28.jpg",
+  "image_alt": "",
+  "body": "Hi. I am a beginner but passionately absorbed technical artist. I focus on 2D games. I work in Unity"
 }
